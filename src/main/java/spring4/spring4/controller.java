@@ -1,4 +1,4 @@
-package spring4.spring4.controller;
+package spring4.controller;
 import spring4.spring4.Spring4Application;
 import org.springframework.ui.Model;
 import org.springframework.stereotype.Controller;
